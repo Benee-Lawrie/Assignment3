@@ -1,0 +1,68 @@
+*{
+    color: whitesmoke;
+    margin: 30;
+    padding: 0;
+}
+
+h1{
+    margin-bottom: 20px;
+    margin-top: auto;
+}
+
+div{
+    width: 800px;
+    border: 15px; 
+    padding: 30px;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.img_deg{
+    float: right;
+
+}
+
+input, select{
+    padding: 5px;
+    border-radius: 10px;
+    width: 300px;
+    color: black;
+    font-size: large;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+img{
+    height: 400px;
+    width: 400px;
+    margin: 0;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border: 500px;
+    border-radius: 800px;
+    border-width: 50px;
+}
+
+body{
+    font-style: oblique;
+    font-weight: 500;
+    font-size: larger;
+    background-image: url(pp.webp);
+    margin: 30px;
+
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #09377c;
+  }
+
+  .submit{
+    background-color: blue;
+    width: 15%;
+  }
